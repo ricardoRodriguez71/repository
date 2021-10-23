@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.gamesacorp</groupId>
+  <artifactId>gamesa-auth</artifactId>
+  <version>1.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200706.094509</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20200706094509</lastUpdated>
+  </versioning>
+</metadata>
